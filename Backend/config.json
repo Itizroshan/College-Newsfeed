@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/incredible",
+    "prod_uri": "mysql://root:@localhost/incredible",
+    "fb_url": "www.facebook.com/shashank",
+    "tw_url": "https://twitter.com/shashank",
+    "git_url": "https://github.com/shashank",
+    "blog_name": "NMIT NEWS FEED",
+    "tag_line": "A Blog Designed By Shashank",
+    "gmail-user": "aaravmalhotra594@gmail.com",
+    "gmail-password": "VeNUm7719",
+    "about_text": "This is a blog created by C1 batch people for big data project. This blog contains features like posting whatever you are good at whether its writing, drawing or news. Feel free to show your talent to us. you can contact us too on a shorter note too. we get your messages through our gmail handle so we'll possibly try to get back to you as soon as possible.",
+    "no_of_posts":4,
+    "login_image": "login.svg",
+    "admin_user": "shashank",
+    "admin_password": "c1batch",
+    "upload_location":"C:\\PycharmProjects\\march20\\static"
+  }
+}
